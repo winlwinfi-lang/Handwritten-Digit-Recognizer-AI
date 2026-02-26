@@ -10,7 +10,7 @@ This is an end-to-end Deep Learning project that recognizes handwritten digits u
 
 ## 🛠️ Files in this Repo
 - `mnist_cnn.pth`: Pre-trained model weights (The AI "Brain").
-- `Untitled12.ipynb`: Full source code for training and deployment.
+- `Handwritting.ipynb`: Full source code for training and deployment.
 
 ## 📖 How to Run
 1. Open the `.ipynb` file in Google Colab.
